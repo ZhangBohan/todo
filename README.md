@@ -1,6 +1,7 @@
 # todo
 A todo list for me
 
+- [ ] Image to Gif
 - [ ] Flask-limiter扩展
 - [ ] [基于七牛的个人图床](http://koala.avosapps.com/tuchuang)
 - [ ] HTTPCraft 2.0：基于swagger协议的工具集
@@ -15,5 +16,11 @@ A todo list for me
 - [x] 瀑布流展示相册图片
 - [ ] 上传图片控件优化
 - [ ] 分享出独立网页
-- [ ] 优化简介
+- [x] 优化简介
 - [ ] 优化提示（填写七牛信息时的GIF图提示）
+
+## Image to Gif
+基于[gifshot](https://github.com/yahoo/gifshot)的Web版单页将多张图片生成Gif
+
+- [ ] 完成功能
+
