@@ -7,7 +7,7 @@ A todo list for me
 - [ ] HTTPCraft 2.0：基于swagger协议的工具集
 - [ ] KoalaAPI增加页面展示：增加API展示及测试页面
 - [ ] SMS App：基于ReactNative的手机应用
-- [ ] SQLView：基于SQL的统计展示页面
+- [x] ~~SQLView：基于SQL的统计展示页面~~已有牛逼人完成了：[metabase](https://github.com/metabase/metabase)
 - [ ] [flask-restful-swagger](https://github.com/rantav/flask-restful-swagger)升级和优化
 - [ ] [Celery 文档翻译](https://github.com/ZhangBohan/celery-docs-cn)
 
