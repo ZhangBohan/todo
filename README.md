@@ -1,6 +1,7 @@
 # todo
 A todo list for me
 
+- [ ] LibToAPI：将有用的库转换为API，API才是世界语
 - [ ] Image to Gif
 - [ ] Flask-limiter扩展
 - [ ] [基于七牛的个人图床](http://koala.avosapps.com/tuchuang)
@@ -15,7 +16,6 @@ A todo list for me
 - [x] 基本功能完成
 - [x] 瀑布流展示相册图片
 - [ ] 上传图片控件优化
-- [ ] 分享出独立网页
 - [x] 优化简介
 - [ ] 优化提示（填写七牛信息时的GIF图提示）
 
